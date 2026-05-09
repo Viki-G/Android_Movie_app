@@ -1,0 +1,1 @@
+This is a project app made on Android studio using Kotlin for the main logic. The app is for movies- using API to extract movies from TMDB and categorizing them as well as providing a description, rating info, title and a trailer of each movie.
